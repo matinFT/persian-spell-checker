@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ff8139a-e9fa-4aab-8690-409ef1851504" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/model-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/model-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/preprocess-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/preprocess-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NovelOnlineCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="307">
               <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -33,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KeyhanCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="495">
               <caret line="51" column="14" selection-start-line="48" selection-end-line="51" selection-end-column="14" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -155,16 +153,18 @@
       <workItem from="1667073267374" duration="3537000" />
       <workItem from="1667120943196" duration="2216000" />
       <workItem from="1667249985975" duration="74000" />
+      <workItem from="1668955694628" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5827000" />
+    <option name="totallyTimeSpent" value="5828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1670224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16862327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,23 +276,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KeyhanCrawler.py">
+    <entry file="file://$PROJECT_DIR$/NovelOnlineCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="51" column="14" selection-start-line="48" selection-end-line="51" selection-end-column="14" />
+        <state relative-caret-position="307">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
-            <element signature="e#137#1235#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NovelOnlineCrawler.py">
+    <entry file="file://$PROJECT_DIR$/KeyhanCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="495">
+          <caret line="51" column="14" selection-start-line="48" selection-end-line="51" selection-end-column="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#137#1235#0" />
           </folding>
         </state>
       </provider>
