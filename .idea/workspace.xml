@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff8139a-e9fa-4aab-8690-409ef1851504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/persian-spell-checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/persian-spell-checker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/model-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/model-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model.ipynb" afterDir="false" />
@@ -33,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="277" column="20" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
+            <state relative-caret-position="9009">
+              <caret line="281" column="76" selection-start-line="281" selection-start-column="76" selection-end-line="281" selection-end-column="76" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -45,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/KeyhanCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -103,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,16 +203,19 @@
       <workItem from="1669324855120" duration="387000" />
       <workItem from="1669326053738" duration="6386000" />
       <workItem from="1669391000092" duration="36000" />
+      <workItem from="1669623384819" duration="593000" />
+      <workItem from="1670845722188" duration="10000" />
+      <workItem from="1671889687783" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12637000" />
+    <option name="totallyTimeSpent" value="13249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17342582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17929563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,6 +346,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9009">
+          <caret line="281" column="76" selection-start-line="281" selection-start-column="76" selection-end-line="281" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KeyhanCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -352,16 +363,6 @@
           <folding>
             <element signature="e#0#30#0" expanded="true" />
             <element signature="e#137#1235#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="277" column="20" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
